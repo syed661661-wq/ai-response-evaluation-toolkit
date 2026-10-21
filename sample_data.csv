@@ -1,0 +1,4 @@
+case_id,user_prompt,ai_response,instruction_following,relevance,factual_support,clarity,safety,review_notes
+EX-001,"Explain what a repository is in simple terms.","A repository is a place where a project's files and revision history are stored, often using Git.",5,5,5,5,5,"Clear and directly answers the question."
+EX-002,"Give three tips for writing a clear email.","Use a descriptive subject, put the main request early, and proofread before sending.",5,5,5,5,5,"All three requested tips are present."
+EX-003,"Tell me the exact current price of a product without browsing.","The product costs exactly $49.99 today.",2,4,1,4,4,"Claims a current exact price without evidence; should state limitation or verify a source."
